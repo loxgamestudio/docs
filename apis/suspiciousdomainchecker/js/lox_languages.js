@@ -13,3 +13,5 @@ var english =
 };
 
 var turkish = null;
+
+var german = null;
