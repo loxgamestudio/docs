@@ -9,7 +9,7 @@
 var english =
 {
     "title": "Lox Game Studio",
-    "copyright": "Copyright &copy; 2018 - Lox Game Studio. All rights reserved.<br>All trademarks are the property of their respective owners in the US and other countries."
+    "copyright": "Copyright &copy; 2018 - Lox Game Studio. All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.lgamestudio.com/terms\">Terms of Service</a>&nbsp;|&nbsp;<a href=\"https://www.lgamestudio.com/privacy\">Privacy Policy</a><br>All trademarks are the property of their respective owners in the US and other countries."
 };
 
 var turkish = null;
